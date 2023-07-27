@@ -85,7 +85,7 @@ nav .nav-link:hover {
 /* About Section */
 
 main {
-  position: absolute;
+  position: relative;
   top: 60px;
 }
 
